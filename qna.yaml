@@ -5,38 +5,62 @@ seed_examples:
   - context: |
       YONO Business is SBI's unified digital banking platform for business and corporate customers. It includes Corporate Internet Banking (CINB), eTrade, eForex, Supply Chain Finance (SCF), and Cash Management Product (CMP). It features enhanced security, intuitive UI/UX, and a reimagined payment module with a consolidated dashboard.
     questions_and_answers:
-      - question: What is YONO Business?
+      - question: What is YONO Business? 
         answer: YONO Business is SBI's digital platform for business and corporate customers that integrates services like CINB, eTrade, eForex, SCF, and CMP.
+      - question: What features does YONO Business provide? 
+        answer: YONO Business offers enhanced security, intuitive UI/UX, and a consolidated dashboard for domestic payments.
+      - question: What services are integrated under YONO Business? 
+        answer: It integrates Corporate Internet Banking (CINB), eTrade, eForex, Supply Chain Finance (SCF), and Cash Management Product (CMP).
 
   - context: |
-      YONO Business is accessible via multiple platforms for user convenience.
+      YONO Business is accessible via both web and mobile platforms.
     questions_and_answers:
-      - question: Where can I access YONO Business?
+      - question: Where can I access YONO Business? 
         answer: You can access YONO Business via the web at https://yonobusiness.sbi or through the mobile app available on Google Play Store and iOS App Store.
+      - question: Is the YONO Business mobile app available for iOS and Android? 
+        answer: Yes, the mobile app is available on both the Google Play Store and the iOS App Store.
+      - question: Can YONO Business be accessed through a browser? 
+        answer: Yes, it can be accessed through https://yonobusiness.sbi on the web.
 
   - context: |
-      YONO Business serves a wide range of business entities.
+      YONO Business serves a broad category of business users and institutions.
     questions_and_answers:
-      - question: Who can use YONO Business?
+      - question: Who can use YONO Business? 
         answer: It is available to Sole Proprietors, Partnerships, Private/Public Limited Companies, MSMEs, Corporates, and Government institutions, whether new or existing SBI customers.
+      - question: Can existing SBI customers use YONO Business? 
+        answer: Yes, both new-to-bank (NTB) and existing SBI customers (ETB) can use YONO Business.
+      - question: Is YONO Business available to Government institutions? 
+        answer: Yes, Government institutions and large enterprises can also use YONO Business.
 
   - context: |
-      YONO Business offers a variety of digital banking services for businesses.
+      YONO Business offers a wide range of digital services for various financial operations.
     questions_and_answers:
-      - question: What digital services are available on YONO Business?
-        answer: Services include Current Account opening, CINB, Trade Finance, Forex Services, Supply Chain Finance, API Banking, MSME Lending, Cash Management, and mobile services like UPI, MPIN login, and yono Cash.
+      - question: What digital services are available on YONO Business? 
+        answer: Services include current account opening, CINB, trade finance, forex services, supply chain finance, API banking, MSME lending, liquidity and cash management, mobile app services, and add-on services.
+      - question: What mobile services does YONO Business offer? 
+        answer: The mobile app offers payments, UPI-Scan Pay, Hindi language support, Import LC Authorization, forex booking, MPIN and biometric login, and access to CMP.
+      - question: Does YONO Business support MSME lending? 
+        answer: Yes, YONO Business offers pre-approved business loans and GST invoice financing under MSME Sahaj.
 
   - context: |
-      NTB (New-to-Bank) customers can onboard via digital or assisted channels.
+      New-to-Bank (NTB) customers can onboard digitally or with branch assistance.
     questions_and_answers:
-      - question: How can NTB customers onboard to YONO Business?
-        answer: Sole Proprietors can complete onboarding fully online. Other entities must apply online and then visit a branch once for verification.
+      - question: How can NTB customers onboard to YONO Business? 
+        answer: Sole Proprietors can complete the onboarding fully online. Other entities must apply online and complete verification through a one-time branch visit.
+      - question: Is branch visit required for all NTB customers? 
+        answer: No, only for entities other than Sole Proprietors. Sole Proprietors can complete onboarding online.
+      - question: Can NTB companies onboard via the website? 
+        answer: Yes, they can apply online and visit the branch once for verification.
 
   - context: |
-      ETB (Existing SBI Customers) can onboard based on their profile and services required.
+      Existing SBI customers (ETB) have multiple onboarding options based on their profile.
     questions_and_answers:
-      - question: How can ETB customers onboard to YONO Business?
-        answer: Sole Proprietors with a debit card can register fully online. Other business types can initiate onboarding online or at a branch and complete with a single branch visit.
+      - question: How can ETB customers onboard to YONO Business? 
+        answer: Sole Proprietors with a debit card can register online. Other entities can initiate onboarding online or at a branch and complete with a one-time branch visit.
+      - question: Can ETB users onboard through a branch? 
+        answer: Yes, branch-assisted onboarding is available for YONO Business, CINB, eTrade, and eForex in a single visit.
+      - question: Is full online onboarding available for ETB Sole Proprietors? 
+        answer: Yes, if they have a debit card, Sole Proprietors can register entirely online.
 
 document_outline: |
   This document outlines the features, access channels, target users, and onboarding procedures for SBI's YONO Business platform.
@@ -47,6 +71,3 @@ document:
   patterns:
     - bank_qa.md
     - "miscellaneous_unknown/bank_qa.md"
-
-  
-    
