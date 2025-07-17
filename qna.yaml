@@ -1,6 +1,6 @@
-version: 1
+version: 3
 domain: Banking/Finance
-created_by: varunschach
+created_by: varunchach
 seed_examples:
   - context: |
       YONO Business is SBI's unified digital banking platform for business and corporate customers. It includes Corporate Internet Banking (CINB), eTrade, eForex, Supply Chain Finance (SCF), and Cash Management Product (CMP). It features enhanced security, intuitive UI/UX, and a reimagined payment module with a consolidated dashboard.
