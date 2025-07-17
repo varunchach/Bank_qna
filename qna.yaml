@@ -42,8 +42,9 @@ document_outline: |
   This document outlines the features, access channels, target users, and onboarding procedures for SBI's YONO Business platform.
 
 document:
-  repo: https://github.com/sankapoo/taxonomy-knowledge-docs-transportation.git
-  commit: c73d9fe61801e0e4e9bf3e1d014aff39da505b24
+  repo: https://github.com/varunchach/Bank_qna.git
+  commit: dbcbc0a5439f059d68b8f70d07e933e1deb15459
   patterns:
-    - banking/yono-business.md
-    - "banking/finance/*.md"
+    - bank_qa.md
+    - "miscellaneous_unknown/bank_qa.md"
+    
