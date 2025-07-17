@@ -1,0 +1,49 @@
+version: 1
+domain: Banking/Finance
+created_by: varunschach
+seed_examples:
+  - context: |
+      YONO Business is SBI's unified digital banking platform for business and corporate customers. It includes Corporate Internet Banking (CINB), eTrade, eForex, Supply Chain Finance (SCF), and Cash Management Product (CMP). It features enhanced security, intuitive UI/UX, and a reimagined payment module with a consolidated dashboard.
+    questions_and_answers:
+      - question: What is YONO Business?
+        answer: YONO Business is SBI's digital platform for business and corporate customers that integrates services like CINB, eTrade, eForex, SCF, and CMP.
+
+  - context: |
+      YONO Business is accessible via multiple platforms for user convenience.
+    questions_and_answers:
+      - question: Where can I access YONO Business?
+        answer: You can access YONO Business via the web at https://yonobusiness.sbi or through the mobile app available on Google Play Store and iOS App Store.
+
+  - context: |
+      YONO Business serves a wide range of business entities.
+    questions_and_answers:
+      - question: Who can use YONO Business?
+        answer: It is available to Sole Proprietors, Partnerships, Private/Public Limited Companies, MSMEs, Corporates, and Government institutions, whether new or existing SBI customers.
+
+  - context: |
+      YONO Business offers a variety of digital banking services for businesses.
+    questions_and_answers:
+      - question: What digital services are available on YONO Business?
+        answer: Services include Current Account opening, CINB, Trade Finance, Forex Services, Supply Chain Finance, API Banking, MSME Lending, Cash Management, and mobile services like UPI, MPIN login, and yono Cash.
+
+  - context: |
+      NTB (New-to-Bank) customers can onboard via digital or assisted channels.
+    questions_and_answers:
+      - question: How can NTB customers onboard to YONO Business?
+        answer: Sole Proprietors can complete onboarding fully online. Other entities must apply online and then visit a branch once for verification.
+
+  - context: |
+      ETB (Existing SBI Customers) can onboard based on their profile and services required.
+    questions_and_answers:
+      - question: How can ETB customers onboard to YONO Business?
+        answer: Sole Proprietors with a debit card can register fully online. Other business types can initiate onboarding online or at a branch and complete with a single branch visit.
+
+document_outline: |
+  This document outlines the features, access channels, target users, and onboarding procedures for SBI's YONO Business platform.
+
+document:
+  repo: https://github.com/sankapoo/taxonomy-knowledge-docs-transportation.git
+  commit: c73d9fe61801e0e4e9bf3e1d014aff39da505b24
+  patterns:
+    - banking/yono-business.md
+    - "banking/finance/*.md"
