@@ -419,7 +419,7 @@ document_outline: |
 
 document:
   repo: https://github.com/varunchach/Bank_qna.git
-  commit: dbcbc0a5439f059d68b8f70d07e933e1deb15459
+  commit: 42674826ad4e58dcab7a16ece48ad557c876f29e
   patterns:
     - bank_qa.md
     - "miscellaneous_unknown/bank_qa.md"
