@@ -83,7 +83,6 @@ seed_examples:
         answer: Limits include ₹2 Cr for own account transfers, ₹10 L for combined intra/inter-bank and merchant payments, ₹25 L for supplier payments, ₹5 L for bills/DDs, and ₹50K for mobile/DTH recharges.
       - question: How secure is Yono Business (Saral)?
         answer: The app uses SSL encryption, session timeouts, and password authentication. No personal data is stored on the device.
-      
   - context: |
      This section covers FAQs related to SBI Quick, a non-transactional mobile banking service that allows account holders to access information through SMS or missed calls.
     questions_and_answers:
@@ -98,7 +97,6 @@ seed_examples:
       - question: Is there any limit on the number of enquiries that can be made in a day or month?
         answer: As of now, there is no such restriction. The number of enquiries is unlimited.
 
-  
   - context: |
      This section covers SIM Binding in the YONO SBI Lite app, including security enhancements, SIM change procedures, and registration steps for both Android and iOS users. It also explains app usage when switching devices or in case of handset loss.
     questions_and_answers:
@@ -158,9 +156,9 @@ seed_examples:
         answer: You will be routed to the SBI Unipay Customer Portal, where you can pay bills using various methods including wallet, credit card, debit card, UPI, prepaid card, net banking, and ATM.
       - question: How do I pay an SBI Life Insurance premium via mobile banking?
         answer: Go to Bill Payments, select SBI Life, and enter your policy number, policyholders date of birth, exact premium amount, and the account to be debited, then submit to pay.
-     
+
   - context: |
-      This section explains Multi Option Deposits (MOD) in SBI, including their features, operation, tenure, interest rates, nomination, online creation window, and withdrawal conditions.
+     This section explains Multi Option Deposits (MOD) in SBI, including their features, operation, tenure, interest rates, nomination, online creation window, and withdrawal conditions.
     questions_and_answers:
       - question: What is e-TDR/e-STDR (Multi Option Deposit)?
         answer: A MOD account is a type of term deposit linked to a transactional account (such as a Savings Account) that allows liquidity by permitting withdrawals in multiples of ₹1,000 as needed, while the remaining balance continues to earn deposit interest.
@@ -174,7 +172,6 @@ seed_examples:
         answer: The MOD account will be in the same name(s) and mode of operation as the debit account (usually Savings) from which the MOD is funded.
       - question: Can senior citizens get higher interest rates for MOD accounts?
         answer: Yes, senior citizens are eligible for additional interest on MODs as per SBIs policy, provided the first account holder qualifies by age.
-   
   - context: |
       This section describes the Quick Transfer feature in YONO Lite SBI, covering both QR code and manual entry methods for instant fund transfer without beneficiary registration.
     questions_and_answers:
@@ -185,7 +182,6 @@ seed_examples:
       - question: Can I do a Quick Transfer without a QR code?
         answer: Yes. You can select “Quick Transfer,” enter beneficiary details (account number, IFSC, etc.) manually, and complete the transfer after OTP verification. No prior registration is needed for this as well. QR code scanning is not available on non-Android phones.
 
-  
   - context: |
       This section explains the Stop Cheque facility in YONO Lite SBI, including steps to stop or revoke a cheque(s), view stopped cheques, fee structure, and restrictions for joint accounts and visibility.
     questions_and_answers:
@@ -199,7 +195,7 @@ seed_examples:
         answer: Yes. Under Requests > Cheque Book > Stop/Revoke Cheque, select View Recent and your account to view all stopped cheques and their details.
       - question: The account from which I want to stop the cheque on is not visible in Mobile Banking. What should I do?
         answer: You cannot stop a cheque if your account is not visible in Internet Banking. Only registered accounts can use this facility.
-      
+
   - context: |
      This section explains UPI (Unified Payments Interface) features available in YONO Lite SBI, including fund transfer channels, beneficiary requirements, transaction limits, dispute handling, control settings, and FAQ on usage and security.
     questions_and_answers:
@@ -227,7 +223,7 @@ document_outline: |
 
 document:
   repo: https://github.com/varunchach/Bank_qna.git
-  commit: b6e290679a7334891ad4660b918fa765c965431d
+  commit: 798f74fed81a8172bb4c5eb5a24266e66740f2ed
   patterns:
     - bank_qa.md
     - miscellaneous_unknown/bank_qa.md
