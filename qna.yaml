@@ -3,10 +3,10 @@ domain: Banking/Finance
 created_by: varunchach
 seed_examples:
   - context: |
-      YONO Business is SBI's unified digital banking platform for business and corporate customers. It includes Corporate Internet Banking (CINB), eTrade, eForex, Supply Chain Finance (SCF), and Cash Management Product (CMP). It features enhanced security, intuitive UI/UX, and a reimagined payment module with a consolidated dashboard.
+      YONO Business is SBIs unified digital banking platform for business and corporate customers. It includes Corporate Internet Banking (CINB), eTrade, eForex, Supply Chain Finance (SCF), and Cash Management Product (CMP). It features enhanced security, intuitive UI/UX, and a reimagined payment module with a consolidated dashboard.
     questions_and_answers:
       - question: What is YONO Business?
-        answer: YONO Business is SBI's digital platform for business and corporate customers that integrates services like CINB, eTrade, eForex, SCF, and CMP.
+        answer: YONO Business is SBIs digital platform for business and corporate customers that integrates services like CINB, eTrade, eForex, SCF, and CMP.
       - question: What features does YONO Business provide?
         answer: YONO Business offers enhanced security, intuitive UI/UX, and a consolidated dashboard for domestic payments.
       - question: What services are integrated under YONO Business?
@@ -63,240 +63,192 @@ seed_examples:
         answer: Yes, if they have a debit card, Sole Proprietors can register entirely online.
 
   - context: |
-     This section covers frequently asked questions related to SBI's WhatsApp Banking service, including registration, security, subscription management, and general usage.
+     This section covers frequently asked questions related to SBIs WhatsApp Banking service, including registration, security, subscription management, and general usage.
     questions_and_answers:
-     - question: I am not able to register for WhatsApp Banking. What should I do?
-       answer: Verify the SMS format and destination number. Ensure the mobile number used to send the SMS is registered with your SBI account. If not, update it at your nearest branch.
-     - question: Who can register for SBI WhatsApp Banking?
-       answer: Savings and Current account holders, NRI accounts, and proprietors of CC-OD accounts are eligible to register.
-     - question: How can I stop receiving WhatsApp messages from the bank?
-       answer: Send an SMS with the word "STOP" to +919022690226.
-     - question: Is WhatsApp Banking secure?
-       answer: Yes, all messages are end-to-end encrypted. However, you should never share sensitive information like PIN, CVV, or OTP over chat. SBI will never ask for such details.
-     - question: I have lost my phone. How do I ensure that account-related information via WhatsApp Banking is secure?
-       answer: Contact SBI Support at 1800-11-2211, 1800-425-3800, or 080-26599990 to block WhatsApp Banking on your device.
+      - question: I am not able to register for WhatsApp Banking. What should I do?
+        answer: Verify the SMS format and destination number. Ensure the mobile number used to send the SMS is registered with your SBI account. If not, update it at your nearest branch.
+      - question: Who can register for SBI WhatsApp Banking?
+        answer: Savings and Current account holders, NRI accounts, and proprietors of CC-OD accounts are eligible to register.
+      - question: How can I stop receiving WhatsApp messages from the bank?
+        answer: Send an SMS with the word STOP to +919022690226.
+      - question: Is WhatsApp Banking secure?
+        answer: Yes, all messages are end-to-end encrypted. However, you should never share sensitive information like PIN, CVV, or OTP over chat. SBI will never ask for such details.
+      - question: I have lost my phone. How do I ensure that account-related information via WhatsApp Banking is secure?
+        answer: Contact SBI Support at 1800-11-2211, 1800-425-3800, or 080-26599990 to block WhatsApp Banking on your device.
 
   - context: |
-     This section provides key details on SBI's Yono Business (Saral) app, including services offered, daily limits, platform compatibility, security, and troubleshooting common issues.
+     This section provides key details on SBIs Yono Business (Saral) app, including services offered, daily limits, platform compatibility, security, and troubleshooting common issues.
     questions_and_answers:
-    - question: What is Yono Business (Saral)?
-      answer: Yono Business (Saral) is SBI’s mobile app for Corporate Internet Banking Saral users. It offers access to various business banking services on Android and Apple devices.
-    - question: What services are available through Yono Business (Saral)?
-      answer: Users can access account overviews, fund transfers, supplier payments, fixed deposits, bill payments, mobile top-ups, DTH recharges, and transaction inquiries.
-    - question: What are the daily transaction limits on Yono Business (Saral)?
-      answer: Limits include ₹2 Cr for own account transfers, ₹10 L for combined intra/inter-bank and merchant payments, ₹25 L for supplier payments, ₹5 L for bills/DDs, and ₹50K for mobile/DTH recharges.
-    - question: How secure is Yono Business (Saral)?
-      answer: The app uses SSL encryption, session timeouts, and password authentication. No personal data is stored on the device.
-    - question: I get a network error while logging into Yono Business (Saral) on a dual SIM phone. What should I do?
-      answer: Ensure network connectivity on your primary SIM. If needed, swap SIM slots or check internet settings before trying again.
+      - question: What is Yono Business (Saral)?
+        answer: Yono Business (Saral) is SBI’s mobile app for Corporate Internet Banking Saral users. It offers access to various business banking services on Android and Apple devices.
+      - question: What services are available through Yono Business (Saral)?
+        answer: Users can access account overviews, fund transfers, supplier payments, fixed deposits, bill payments, mobile top-ups, DTH recharges, and transaction inquiries.
+      - question: What are the daily transaction limits on Yono Business (Saral)?
+        answer: Limits include ₹2 Cr for own account transfers, ₹10 L for combined intra/inter-bank and merchant payments, ₹25 L for supplier payments, ₹5 L for bills/DDs, and ₹50K for mobile/DTH recharges.
+      - question: How secure is Yono Business (Saral)?
+        answer: The app uses SSL encryption, session timeouts, and password authentication. No personal data is stored on the device.
+      - question: I get a network error while logging into Yono Business (Saral) on a dual SIM phone. What should I do?
+        answer: Ensure network connectivity on your primary SIM. If needed, swap SIM slots or check internet settings before trying again.
 
   - context: |
      This section covers FAQs related to SBI Quick, a non-transactional mobile banking service that allows account holders to access information through SMS or missed calls.
     questions_and_answers:
-    - question: What if you have two account numbers with the Bank with the same mobile number mentioned on both?
-      answer: You can register for SBI Quick for only one account at any point of time. To change the mapped account number, de-register SBI Quick from the first account and then register for the second one.
-    - question: Is it mandatory that the mobile number to be used for SBI Quick has to be registered with the Bank for that particular account?
-      answer: Yes. If your mobile number is not registered for that account, visit your Home Branch and get it updated.
-    - question: Is it available for all types of accounts?
-      answer: SBI Quick is available for Savings Bank (SB), Current Account (CA), Overdraft (OD), and Cash Credit (CC) accounts.
-    - question: How is this facility different from Yono Lite SBI?
-      answer: 
-        1. SBI Quick does not require a Login ID or Password—just one-time registration from your mobile number registered with the bank.  
-        2. SBI Quick does not offer any financial transactional services, unlike Yono Lite SBI.
-    - question: Is there any limit on the number of enquiries that can be made in a day or month?
-      answer: As of now, there is no such restriction. The number of enquiries is unlimited.
-    
-  
-  - context: |
-     This section covers the BHIM SBI Pay app, State Bank of India’s UPI-based mobile payment solution, including its features, differences from other payment methods, compatibility, and usage guidelines.
-    questions_and_answers:
-    - question: What is BHIM SBI Pay (UPI App of SBI)?
-      answer: BHIM SBI Pay is a mobile payment app that allows account holders of any UPI-enabled bank to send and receive money, pay bills, recharge, and shop online using their smartphones.
-    - question: How is UPI different from IMPS?
-      answer: 
-        • IMPS enables money transfer initiated by the sender only.  
-        • UPI allows both Push (sender-initiated) and Pull (receiver-initiated) transactions.  
-        • Multiple bank accounts can be linked to a single UPI app.  
-        • UPI is secured by single-click two-factor authentication.
-    - question: How is BHIM SBI Pay different from other payment solutions/apps?
-      answer: 
-        • It offers 24x7 payment flexibility on all 365 days.  
-        • Payments can be made using just a Virtual Payment Address (VPA), without needing account details.  
-        • It supports online bill payments, recharges, shopping, etc.
-    - question: Can I use more than one UPI application on the same mobile device?
-      answer: Yes, you can use multiple UPI apps on the same phone and link either the same or different bank accounts in each app.
-    - question: Will I be able to use BHIM SBI Pay app across all mobile platforms?
-      answer: BHIM SBI Pay is available for both Android and iOS smartphones.
-    - question: Can I link my mobile wallet to BHIM SBI Pay/UPI?
-      answer: No, you cannot link a mobile wallet to BHIM SBI Pay/UPI. Only bank accounts can be added.
+      - question: What if you have two account numbers with the Bank with the same mobile number mentioned on both?
+        answer: You can register for SBI Quick for only one account at any point of time. To change the mapped account number, de-register SBI Quick from the first account and then register for the second one.
+      - question: Is it mandatory that the mobile number to be used for SBI Quick has to be registered with the Bank for that particular account?
+        answer: Yes. If your mobile number is not registered for that account, visit your Home Branch and get it updated.
+      - question: Is it available for all types of accounts?
+        answer: 1. SBI Quick is available for Savings Bank (SB), Current Account (CA), Overdraft (OD), and Cash Credit (CC) accounts.
+      - question: How is this facility different from Yono Lite SBI?
+        answer: SBI Quick does not require a Login ID or Password—just one-time registration from your mobile number registered with the bank. 2. SBI Quick does not offer any financial transactional services, unlike Yono Lite SBI.
+      - question: Is there any limit on the number of enquiries that can be made in a day or month?
+        answer: As of now, there is no such restriction. The number of enquiries is unlimited.
 
-  
+  - context: |
+     This section covers the BHIM SBI Pay app, State Bank of Indias UPI-based mobile payment solution, including its features, differences from other payment methods, compatibility, and usage guidelines.
+    questions_and_answers:
+      - question: What is BHIM SBI Pay (UPI App of SBI)?
+        answer: BHIM SBI Pay is a mobile payment app that allows account holders of any UPI-enabled bank to send and receive money, pay bills, recharge, and shop online using their smartphones.
+      - question: How is UPI different from IMPS?
+        answer: IMPS enables money transfer initiated by the sender only. UPI allows both Push (sender-initiated) and Pull (receiver-initiated) transactions.  Multiple bank accounts can be linked to a single UPI app.  UPI is secured by single-click two-factor authentication.
+      - question: How is BHIM SBI Pay different from other payment solutions/apps?
+        answer: It offers 24x7 payment flexibility on all 365 days.Payments can be made using just a Virtual Payment Address (VPA), without needing account details. It supports online bill payments, recharges, shopping, etc.
+      - question: Can I use more than one UPI application on the same mobile device?
+        answer: Yes, you can use multiple UPI apps on the same phone and link either the same or different bank accounts in each app.
+      - question: Will I be able to use BHIM SBI Pay app across all mobile platforms?
+        answer: BHIM SBI Pay is available for both Android and iOS smartphones.
+      - question: Can I link my mobile wallet to BHIM SBI Pay/UPI?
+        answer: No, you cannot link a mobile wallet to BHIM SBI Pay/UPI. Only bank accounts can be added.
+
   - context: |
      This section covers SIM Binding in the YONO SBI Lite app, including security enhancements, SIM change procedures, and registration steps for both Android and iOS users. It also explains app usage when switching devices or in case of handset loss.
     questions_and_answers:
-    - question: Is One user one device more secure?
-      answer: Yes, the One user one device registration process of YONO LITE will make the application more secure by implementing one user restriction per device.
-    - question: What if the user changes the SIM in the existing application?
-      answer: If the registered SIM is not available, a message will be displayed “Dear User, The registered SIM is not available in your device. Do you want to register again?” with REGISTER and CANCEL buttons. Selecting REGISTER allows re-registration; CANCEL closes the app and you can continue once the registered SIM is inserted.
-    - question: What is the new registration process for Android?
-      answer: 
-        • Download and open YONO Lite SBI app from Play Store.  
-        • Choose the registered SIM (SIM 1 or SIM 2) to complete registration, or proceed directly for single SIM devices.  
-        • A message will prompt for sending an SMS to validate your mobile number.  
-        • Click Proceed—an SMS containing a unique code is sent (SMS charges apply).  
-        • Enter your User Name and Password, accept the Terms and Conditions, and complete registration.  
-        • An activation code will be sent to your registered mobile; input this code to activate and log in.
-    - question: What is the new registration process for iOS?
-      answer: 
-        • Download and open YONO Lite app from the App Store.  
-        • A message will prompt you to send an SMS from your number linked with your SBI account.  
-        • Click Proceed—a code is auto-filled and must be sent within 30 seconds (SMS charges apply).  
-        • Enter User Name and Password, accept Terms and Conditions, and click Ok.  
-        • Enter the activation code sent to your mobile to complete setup.
-    - question: Can I use the application on multiple mobile phones?
-      answer: No. If you wish to register on another mobile, you must insert the same SIM in the new handset and complete the registration process.
-    - question: What if I lost my handset where YONO Lite application was registered?
-      answer: Block your SIM. Once you get a new SIM from your telecom operator, insert it in your new mobile and follow the registration process again.
+      - question: Is One user one device more secure?
+        answer: Yes, the One user one device registration process of YONO LITE will make the application more secure by implementing one user restriction per device.
+      - question: What if the user changes the SIM in the existing application?
+        answer: If the registered SIM is not available, a message will be displayed “Dear User, The registered SIM is not available in your device. Do you want to register again?” with REGISTER and CANCEL buttons. Selecting REGISTER allows re-registration; CANCEL closes the app and you can continue once the registered SIM is inserted.
+      - question: What is the new registration process for Android?
+        answer: Download and open YONO Lite SBI app from Play Store. Choose the registered SIM (SIM 1 or SIM 2) to complete registration, or proceed directly for single SIM devices. A message will prompt for sending an SMS to validate your mobile number. Click Proceed—an SMS containing a unique code is sent (SMS charges apply).Enter your User Name and Password, accept the Terms and Conditions, and complete registration. An activation code will be sent to your registered mobile; input this code to activate and log in.
+      - question: What is the new registration process for iOS?
+        answer: Download and open YONO Lite app from the App Store. A message will prompt you to send an SMS from your number linked with your SBI account. Click Proceed—a code is auto-filled and must be sent within 30 seconds (SMS charges apply). Enter User Name and Password, accept Terms and Conditions, and click Ok. Enter the activation code sent to your mobile to complete setup.
+      - question: Can I use the application on multiple mobile phones?
+        answer: No. If you wish to register on another mobile, you must insert the same SIM in the new handset and complete the registration process.
+      - question: What if I lost my handset where YONO Lite application was registered?
+        answer: Block your SIM. Once you get a new SIM from your telecom operator, insert it in your new mobile and follow the registration process again.
 
   - context: |
      This section covers general information about the YONO Lite SBI app, including eligibility, available services, transaction limits, device requirements, security, and download instructions for Android, iOS, and Windows phones.
     questions_and_answers:
-    - question: What is YONO Lite SBI?
-      answer: YONO Lite SBI is the State Bank of India's retail banking application for mobile devices. It allows SBI Internet banking and YONO Lite app users to access a wide range of banking services anytime, anywhere via their smartphones or tablets.
-    - question: Who can apply for this and how do I register?
-      answer: All SBI customers with an operative savings or current account can use YONO Lite SBI. Registration can be completed using your Internet banking credentials or debit card details via the app.
-    - question: Is YONO Lite SBI available 24x7?
-      answer: Yes, the app is available at all times and supports banking transactions round the clock.
-    - question: What accounts can I link for Mobile Banking? If I have accounts in different branches, do I need to register separately?
-      answer: All accounts linked to your CIF number are automatically available in the app. Separate registration for each account is not required.
-    - question: What are the transaction limits on YONO Lite SBI?
-      answer: Transaction limits vary depending on the mode  
-        • Self-account transfer up to ₹2 crore per day  
-        • Third-party (within SBI) up to ₹25 lakh per day  
-        • Interbank (NEFT/RTGS) up to ₹25 lakh per day  
-        • IMPS ₹5 lakh per transaction/day  
-        • UPI ₹1 lakh per day  
-        • Quick Transfer ₹50,000 per transaction/day  
-        • mCash ₹1,101 per transaction  
-        These limits may differ for new beneficiaries or minor accounts.
-    - question: Can I use YONO Lite SBI overseas?
-      answer: Yes, provided you have international roaming and access to your registered mobile number for OTPs and activation codes.
-    - question: How do I download the application on my Android phone?
-      answer: Open Play Store, search for "YONO Lite SBI", select the app, and tap "Install". After installation, launch the app from your device's home screen.
-    - question: How do I know my transactions are secure on YONO Lite SBI?
-      answer: All messages and transactions are encrypted and transmitted securely between your mobile and SBI's servers. You control initiation and authorization of every payment.
+      - question: What is YONO Lite SBI?
+        answer: YONO Lite SBI is the State Bank of Indias retail banking application for mobile devices. It allows SBI Internet banking and YONO Lite app users to access a wide range of banking services anytime, anywhere via their smartphones or tablets.
+      - question: Who can apply for this and how do I register?
+        answer: All SBI customers with an operative savings or current account can use YONO Lite SBI. Registration can be completed using your Internet banking credentials or debit card details via the app.
+      - question: Is YONO Lite SBI available 24x7?
+        answer: Yes, the app is available at all times and supports banking transactions round the clock.
+      - question: What accounts can I link for Mobile Banking? If I have accounts in different branches, do I need to register separately?
+        answer: All accounts linked to your CIF number are automatically available in the app. Separate registration for each account is not required.
+      - question: What are the transaction limits on YONO Lite SBI?
+        answer: Transaction limits vary depending on the mode  Self-account transfer up to ₹2 crore per day, Third-party (within SBI) up to ₹25 lakh per day, Interbank (NEFT/RTGS) up to ₹25 lakh per day, IMPS ₹5 lakh per transaction/day, UPI ₹1 lakh per day, Quick Transfer ₹50,000 per transaction/day, mCash ₹1,101 per transaction. These limits may differ for new beneficiaries or minor accounts.
+      - question: Can I use YONO Lite SBI overseas?
+        answer: Yes, provided you have international roaming and access to your registered mobile number for OTPs and activation codes.
+      - question: How do I download the application on my Android phone?
+        answer: Open Play Store, search for YONO Lite SBI, select the app, and tap Install. After installation, launch the app from your devices home screen.
+      - question: How do I know my transactions are secure on YONO Lite SBI?
+        answer: All messages and transactions are encrypted and transmitted securely between your mobile and SBIs servers. You control initiation and authorization of every payment.
 
   - context: |
      This section addresses technical requirements, troubleshooting steps, app language support, logout procedures, usage from different locations, and key precautions for secure mobile banking via YONO Lite SBI.
     questions_and_answers:
-    - question: What devices are required to use YONO Lite SBI?
-      answer: YONO Lite SBI can be used on Android (OS 2.3+), iOS (4.1+), or Windows (8.1+) smartphones with GPRS/EDGE/3G/4G or Wi-Fi Internet connectivity.
-    - question: How much free memory space is needed on my phone?
-      answer: At least 40 MB of available memory is required to install and run the application.
-    - question: What should I do if my phone hangs or switches off during a transaction?
-      answer: Restart your device, then log back into the app. Your transaction will be processed as per its actual status at the time of the interruption.
-    - question: Is YONO Lite SBI available in other languages?
-      answer: Yes, it is available in 10 Indian languages. You can switch languages using the 'Change Language' option in the app.
-    - question: How do I log out of the application?
-      answer: You can log out by selecting the Logout icon at the top right or by pressing the back button from the Home screen and confirming logout.
-    - question: Can I access mobile banking if I have not registered for Internet Banking?
-      answer: Yes, mobile banking registration is possible without Internet Banking. Registration can be done using your account details and registered mobile.
-    - question: What precautions should I follow for secure mobile banking?
-      answer:  
-        • Log on to Mobile Banking and change your default password after registration.  
-        • Never share your User ID/password.  
-        • Change passwords regularly and avoid obvious passwords like birthdays or names.  
-        • Always exit the application if sharing your device.
-    
+      - question: What devices are required to use YONO Lite SBI?
+        answer: YONO Lite SBI can be used on Android (OS 2.3+), iOS (4.1+), or Windows (8.1+) smartphones with GPRS/EDGE/3G/4G or Wi-Fi Internet connectivity.
+      - question: How much free memory space is needed on my phone?
+        answer: At least 40 MB of available memory is required to install and run the application.
+      - question: What should I do if my phone hangs or switches off during a transaction?
+        answer: Restart your device, then log back into the app. Your transaction will be processed as per its actual status at the time of the interruption.
+      - question: Is YONO Lite SBI available in other languages?
+        answer: Yes, it is available in 10 Indian languages. You can switch languages using the Change Language option in the app.
+      - question: How do I log out of the application?
+        answer: You can log out by selecting the Logout icon at the top right or by pressing the back button from the Home screen and confirming logout.
+      - question: Can I access mobile banking if I have not registered for Internet Banking?
+        answer: Yes, mobile banking registration is possible without Internet Banking. Registration can be done using your account details and registered mobile.
+      - question: What precautions should I follow for secure mobile banking?
+        answer: Log on to Mobile Banking and change your default password after registration. Never share your User ID/password. Change passwords regularly and avoid obvious passwords like birthdays or names. Always exit the application if sharing your device.
   - context: |
      This section covers the Transfer of Savings Account feature in SBI Mobile Banking, outlining eligibility, CIF transfer scenarios, and important information on transferring accounts between branches.
     questions_and_answers:
-    - question: What is Transfer of savings account?
-      answer: State Bank of India provides a mobile banking facility to transfer your SBI savings account from one branch to another anywhere in the country. This option is only available for savings accounts that are KYC-compliant and active.
-    - question: Will the CIF also be transferred with the savings account?
-      answer: If a customer has only one account and one CIF linked to their user ID, the CIF will be transferred with the account to the new branch. However, if multiple accounts share a single CIF, only the account is transferred, not the CIF.
-    - question: can CIF be transferred with the savings account?
-      answer: Yes it could be done.  
+      - question: What is Transfer of savings account?
+        answer: State Bank of India provides a mobile banking facility to transfer your SBI savings account from one branch to another anywhere in the country. This option is only available for savings accounts that are KYC-compliant and active.
+      - question: Will the CIF also be transferred with the savings account?
+        answer: If a customer has only one account and one CIF linked to their user ID, the CIF will be transferred with the account to the new branch. However, if multiple accounts share a single CIF, only the account is transferred, not the CIF.
+      - question: can CIF be transferred with the savings account?
+        answer: Yes it could be done.
 
   - context: |
      This section explains Fund Transfer options in SBI Mobile Banking, including the types of fund transfers, adding payees, transaction limits, transfer timings, and special options like Quick Transfer for one-time payments.
     questions_and_answers:
-    - question: What kind of fund transfers can I do in mobile banking?
-      answer: You can transfer funds to self-accounts, third party accounts within SBI, accounts in other banks via IMPS/RTGS/NEFT, accounts using IMPS-Mobile No & MMID, and Quick Transfer for one-time payments.
-    - question: What are self-accounts?
-      answer: Self-accounts are your own active accounts that are enabled for Mobile Banking within SBI.
-    - question: Do I need to register every beneficiary for fund transfer, or can I make one-time payments?
-      answer: To avoid registering a payee for one-time payments, you can use 'Quick Transfer' (using mobile number/email) or mCash, where a passcode is sent to the beneficiary.
-    - question: How can I transfer funds to my accounts in other SBI branches?
-      answer: Add these accounts as payees under 'Funds Transfer  Add Payee'. After auto activation, you may transfer funds to these accounts.
-    - question: What is an IFSC code and how can I find it?
-      answer: IFSC (Indian Financial System Code) is an alphanumeric code used to identify bank branches for NEFT/RTGS/IMPS transfers. It is printed on your cheque book or passbook.
-    - question: Can I edit the maximum limit for a payee later?
-      answer: Yes. Go to 'Fund Transfer' > 'Manage Payee', select the payee, and then 'Edit' their name or transfer limit as needed.
-    - question: How long does it take to transfer funds?
-      answer: All fund transfer modes (NEFT, RTGS, IMPS) and intra-bank transfers are available 24x7, every day of the year.
+      - question: What kind of fund transfers can I do in mobile banking?
+        answer: You can transfer funds to self-accounts, third party accounts within SBI, accounts in other banks via IMPS/RTGS/NEFT, accounts using IMPS-Mobile No & MMID, and Quick Transfer for one-time payments.
+      - question: What are self-accounts?
+        answer: Self-accounts are your own active accounts that are enabled for Mobile Banking within SBI.
+      - question: Do I need to register every beneficiary for fund transfer, or can I make one-time payments?
+        answer: To avoid registering a payee for one-time payments, you can use Quick Transfer (using mobile number/email) or mCash, where a passcode is sent to the beneficiary.
+      - question: How can I transfer funds to my accounts in other SBI branches?
+        answer: Add these accounts as payees under Funds Transfer  Add Payee. After auto activation, you may transfer funds to these accounts.
+      - question: What is an IFSC code and how can I find it?
+        answer: IFSC (Indian Financial System Code) is an alphanumeric code used to identify bank branches for NEFT/RTGS/IMPS transfers. It is printed on your cheque book or passbook.
+      - question: Can I edit the maximum limit for a payee later?
+        answer: Yes. Go to Fund Transfer > Manage Payee, select the payee, and then Edit their name or transfer limit as needed.
+      - question: How long does it take to transfer funds?
+        answer: All fund transfer modes (NEFT, RTGS, IMPS) and intra-bank transfers are available 24x7, every day of the year.
 
   - context: |
      This section provides information on account enquiry and requests through SBI Mobile Banking, such as checking past transactions and requesting a cheque book.
      This section covers Bill Pay facilities in SBI Mobile Banking, including supported utility bills, categories, and the steps required to make bill payments through the app.
      This section explains how to pay SBI Life Insurance premiums and handle late payments via SBI Mobile Banking.
     questions_and_answers:
-    - question: Can I view recent transactions for my account?
-      answer: Yes, you can view a mini statement showing your last 10 transactions through the mobile app.
-    - question: How do I request a cheque book via mobile banking?
-      answer: Request a cheque book using the app. It will be delivered to your address registered with the bank. If not received within 5 days, contact your branch.
-    - question: What types of bills can I pay using SBI Mobile Banking?
-      answer: You can pay utility bills such as electricity, telephone, and mobile, as well as insurance premiums and make donations.
-    - question: How do I make a bill payment through the app?
-      answer: You will be routed to the SBI Unipay Customer Portal, where you can pay bills using various methods including wallet, credit card, debit card, UPI, prepaid card, net banking, and ATM.
-    - question: How do I pay an SBI Life Insurance premium via mobile banking?
-      answer: Go to Bill Payments, select 'SBI Life', and enter your policy number, policyholders date of birth, exact premium amount, and the account to be debited, then submit to pay.
-    - question: What if I forget to pay my premium on time?
-      answer: If a penalty is due, enter the normal premium amount. If incorrect, you will receive an SMS with the correct amount including any penalty. Pay the advised amount to settle your due with penalty.
-  
+      - question: Can I view recent transactions for my account?
+        answer: Yes, you can view a mini statement showing your last 10 transactions through the mobile app.
+      - question: How do I request a cheque book via mobile banking?
+        answer: Request a cheque book using the app. It will be delivered to your address registered with the bank. If not received within 5 days, contact your branch.
+      - question: What types of bills can I pay using SBI Mobile Banking?
+        answer: You can pay utility bills such as electricity, telephone, and mobile, as well as insurance premiums and make donations.
+      - question: How do I make a bill payment through the app?
+        answer: You will be routed to the SBI Unipay Customer Portal, where you can pay bills using various methods including wallet, credit card, debit card, UPI, prepaid card, net banking, and ATM.
+      - question: How do I pay an SBI Life Insurance premium via mobile banking?
+        answer: Go to Bill Payments, select SBI Life, and enter your policy number, policyholders date of birth, exact premium amount, and the account to be debited, then submit to pay.
+      - question: What if I forget to pay my premium on time?
+        answer: If a penalty is due, enter the normal premium amount. If incorrect, you will receive an SMS with the correct amount including any penalty. Pay the advised amount to settle your due with penalty.
   - context: |
      This section provides a detailed overview of the SBI m-Passbook (mobile passbook) feature, its functionality, benefits, offline access process, and mCash fund transfer option. It also covers registration on YONO Lite SBI and PPF account opening.
     questions_and_answers:
-    - question: What is m-Passbook?
-      answer: m-Passbook is SBI's digital version of a traditional physical passbook, available for free in the YONO Lite SBI mobile app. It allows users to view, store, and monitor all account transaction activities on their smartphones without having to visit the bank branch. Transactions can be synced manually via the app, and once synced, your transaction history is available for review at any time, enhancing convenience and accessibility[1][2][3][4][5][6][8].
-    - question: What are the main features or benefits of SBI m-Passbook?
-      answer: 
-        • Access your account transaction history anytime, anywhere, without branch visits.  
-        • Free of charge for SBI Internet Banking and YONO Lite SBI users.  
-        • Valid and accepted as a statement of account just like a physical passbook[2][5].  
-        • Real-time updates and easy syncing of new transactions[5][6].  
-        • Ability to download/print statements in PDF format[5][7].  
-        • Offline access once data is synced[6][9].  
-        • Enhanced security through PIN/MPIN authentication[1][5][7].
-    - question: What is m-Passbook Offline and how does it work?
-      answer: m-Passbook Offline is a feature in YONO Lite SBI that lets you view your passbook and past transactions without internet connectivity, provided you have previously synced the data online. You can access it from the login screen by entering your Internet Banking username and a 4-digit mPassbook PIN. To use offline access, you must generate or reset your PIN from within the app and sync your data in advance. No “Sync” button is available in offline mode; should you forget your PIN, you can regenerate it using the same option[6][9].
-    - question: How do I access and set up my SBI m-Passbook?
-      answer: 
-        • Download and open YONO Lite SBI or SBI Anywhere app from the respective app store.  
-        • Register/login with your net banking credentials.  
-        • Set up your 4-digit mPassbook PIN the first time.  
-        • Sync your account transactions while connected to the internet; access synced transactions anytime, even offline, using your username and mPassbook PIN[1][6][9].
-    - question: What is mCash  Pay by Contacts?
-      answer: mCash is a feature in YONO Lite SBI that lets users transfer money to third parties without registering them as beneficiaries. You simply enter the recipient's mobile number or email ID, or select a contact from your device, and initiate a transfer by creating an mCash request. The recipient can claim funds via a link and passcode received in SMS/email—even if they do not bank with SBI. A nominal fee applies per transaction, and the transfer is completed instantly via IMPS, including for non-SBI bank recipients.
-    - question: What is the minimum and maximum amount allowed for mCash transactions?
-      answer: There is no minimum amount, but the maximum is ₹1,101 per transaction, ₹2,202 per day, and ₹5,101 per month.
-    - question: How do I register for YONO Lite SBI if I am an existing Internet Banking (INB) user?
-      answer: Open the YONO Lite SBI app, tap "Registration," enter your existing YONO Lite credentials, accept the terms, and enter the activation code received on your registered mobile number. Once the process is complete, you can use all app features.
-    - question: How does a new user register on YONO Lite SBI?
-      answer: When launching the app for the first time, the registration screen will appear. The user selects their mobile number registered with SBI, then follows the guided steps to complete registration.
-    - question: What is the PPF account opening functionality in YONO Lite SBI?
-      answer: Customers can generate a pre-filled PPF account opening form from the app, print it, and submit it at their branch to open a PPF account—saving them time during the branch visit.
-  
+      - question: What is m-Passbook?
+        answer: m-Passbook is SBIs digital version of a traditional physical passbook, available for free in the YONO Lite SBI mobile app. It allows users to view, store, and monitor all account transaction activities on their smartphones without having to visit the bank branch. Transactions can be synced manually via the app, and once synced, your transaction history is available for review at any time, enhancing convenience and accessibility[1][2][3][4][5][6][8].
+      - question: What are the main features or benefits of SBI m-Passbook?
+        answer: Access your account transaction history anytime, anywhere, without branch visits , Free of charge for SBI Internet Banking and YONO Lite SBI users, Valid and accepted as a statement of account just like a physical passbook[2][5], Real-time updates and easy syncing of new transactions[5][6], Ability to download/print statements in PDF format[5][7], Offline access once data is synced[6][9], Enhanced security through PIN/MPIN authentication[1][5][7].
+      - question: What is m-Passbook Offline and how does it work?
+        answer: m-Passbook Offline is a feature in YONO Lite SBI that lets you view your passbook and past transactions without internet connectivity, provided you have previously synced the data online. You can access it from the login screen by entering your Internet Banking username and a 4-digit mPassbook PIN. To use offline access, you must generate or reset your PIN from within the app and sync your data in advance. No “Sync” button is available in offline mode; should you forget your PIN, you can regenerate it using the same option[6][9].
+      - question: How do I access and set up my SBI m-Passbook?
+        answer: Download and open YONO Lite SBI or SBI Anywhere app from the respective app store, Register/login with your net banking credentials , Set up your 4-digit mPassbook PIN the first time, Sync your account transactions while connected to the internet; access synced transactions anytime, even offline, using your username and mPassbook PIN[1][6][9].
+      - question: What is mCash  Pay by Contacts?
+        answer: mCash is a feature in YONO Lite SBI that lets users transfer money to third parties without registering them as beneficiaries. You simply enter the recipients mobile number or email ID, or select a contact from your device, and initiate a transfer by creating an mCash request. The recipient can claim funds via a link and passcode received in SMS/email—even if they do not bank with SBI. A nominal fee applies per transaction, and the transfer is completed instantly via IMPS, including for non-SBI bank recipients.
+      - question: What is the minimum and maximum amount allowed for mCash transactions?
+        answer: There is no minimum amount, but the maximum is ₹1,101 per transaction, ₹2,202 per day, and ₹5,101 per month.
+      - question: How do I register for YONO Lite SBI if I am an existing Internet Banking (INB) user?
+        answer: Open the YONO Lite SBI app, tap Registration, enter your existing YONO Lite credentials, accept the terms, and enter the activation code received on your registered mobile number. Once the process is complete, you can use all app features.
+      - question: How does a new user register on YONO Lite SBI?
+        answer: When launching the app for the first time, the registration screen will appear. The user selects their mobile number registered with SBI, then follows the guided steps to complete registration.
+      - question: What is the PPF account opening functionality in YONO Lite SBI?
+        answer: Customers can generate a pre-filled PPF account opening form from the app, print it, and submit it at their branch to open a PPF account—saving them time during the branch visit.
 
   - context: |
      This section covers the functionality and eligibility for submitting Forms 15G/15H for tax exemption on interest income, including criteria and NRI restrictions.
     questions_and_answers:
-    - question: What is the functionality of 15G/15H?
-      answer: Forms 15G and 15H are declarations that can be submitted to claim exemption from tax deducted at source (TDS) on interest income from bank deposits.
-    - question: What is the criteria for submitting 15G?
-      answer: Form 15G is for non-senior citizens (aged 60 years or less). The aggregate interest income in a financial year must not exceed the basic exemption limit of ₹2.5 lakh.
-    - question: Can NRI customers generate and submit 15G/H in Mobile Banking?
-      answer: No, NRI customers cannot submit Form 15G or 15H through SBI Mobile Banking.
+      - question: What is the functionality of 15G/15H?
+        answer: Forms 15G and 15H are declarations that can be submitted to claim exemption from tax deducted at source (TDS) on interest income from bank deposits.
+      - question: What is the criteria for submitting 15G?
+        answer: Form 15G is for non-senior citizens (aged 60 years or less). The aggregate interest income in a financial year must not exceed the basic exemption limit of ₹2.5 lakh.
+      - question: Can NRI customers generate and submit 15G/H in Mobile Banking?
+        answer: No, NRI customers cannot submit Form 15G or 15H through SBI Mobile Banking.
 
   - context: |
       This section explains Multi Option Deposits (MOD) in SBI, including their features, operation, tenure, interest rates, nomination, online creation window, and withdrawal conditions.
@@ -316,7 +268,7 @@ seed_examples:
       - question: Where will the maturity or withdrawn amount be credited?
         answer: The maturity or withdrawn amount is credited only to the debited account from which the MOD was funded; it cannot be credited to other accounts.
       - question: Can senior citizens get higher interest rates for MOD accounts?
-        answer: Yes, senior citizens are eligible for additional interest on MODs as per SBI's policy, provided the first account holder qualifies by age.
+        answer: Yes, senior citizens are eligible for additional interest on MODs as per SBIs policy, provided the first account holder qualifies by age.
       - question: Is there any cut-off time for creating MOD accounts online?
         answer: Yes, e-TDR/e-STDR (MOD) creation is available online from 8:00 AM to 8:00 PM IST; requests outside this window are scheduled for the next opening hours.
 
@@ -345,32 +297,32 @@ seed_examples:
   - context: |
      This section covers e-Statements in SBI, including what they are, advantages, update/cancellation procedures, and options to print or save statements for your records.
     questions_and_answers:
-    - question: What is an eStatement and what are its advantages?
-      answer: An e-Statement is a periodic record (monthly or quarterly) of all your account transactions sent to your registered email address. It helps you track your transactions conveniently in one place.
-    - question: Do I need to pay for the e-Statement service?
-      answer: No. The e-Statement service is provided free of cost by SBI.
-    - question: How can I change or update my email address for eStatement notifications?
-      answer: Log in to Internet Banking, go to your profile section, and update your email address.
-    - question: Can I cancel the eStatement service and opt for paper statements in the future?
-      answer: Yes, you can de-register from the eStatement service in the app at any time and opt for paper-based statements.
-    - question: Can I print my eStatement?
-      answer: Yes, once you receive your statement by email, you can print it out for your records.
-    - question: Can I save my eStatement?
-      answer: Yes, you can save your eStatement by downloading it from your email to your device.
+      - question: What is an eStatement and what are its advantages?
+        answer: An e-Statement is a periodic record (monthly or quarterly) of all your account transactions sent to your registered email address. It helps you track your transactions conveniently in one place.
+      - question: Do I need to pay for the e-Statement service?
+        answer: No. The e-Statement service is provided free of cost by SBI.
+      - question: How can I change or update my email address for eStatement notifications?
+        answer: Log in to Internet Banking, go to your profile section, and update your email address.
+      - question: Can I cancel the eStatement service and opt for paper statements in the future?
+        answer: Yes, you can de-register from the eStatement service in the app at any time and opt for paper-based statements.
+      - question: Can I print my eStatement?
+        answer: Yes, once you receive your statement by email, you can print it out for your records.
+      - question: Can I save my eStatement?
+        answer: Yes, you can save your eStatement by downloading it from your email to your device.
 
   - context: |
       This section explains the Stop Cheque facility in YONO Lite SBI, including steps to stop or revoke a cheque(s), view stopped cheques, fee structure, and restrictions for joint accounts and visibility.
     questions_and_answers:
       - question: How do I stop a cheque through YONO Lite SBI?
-        answer: Log in to YONO Lite SBI, go to 'Requests' > 'Cheque Book' > 'Stop/Revoke Cheque', choose 'Stop Cheque', select your account, enter start and end cheque number, select the instrument type and stop reason, accept the terms, and submit. Confirm the process with the OTP received on your mobile. The cheque(s) will be immediately stopped.
+        answer: Log in to YONO Lite SBI, go to Requests > Cheque Book > Stop/Revoke Cheque, choose Stop Cheque, select your account, enter start and end cheque number, select the instrument type and stop reason, accept the terms, and submit. Confirm the process with the OTP received on your mobile. The cheque(s) will be immediately stopped.
       - question: Is there any cost for stopping a cheque via SBI mobile banking?
         answer: No, stopping a cheque is free of charge.
       - question: Can I stop multiple cheques at once?
         answer: Yes, you can stop multiple cheques at one time by specifying the start and end cheque numbers.
       - question: How do I cancel a Cheque Stop (Revoke Cheque)?
-        answer: Log in to YONO Lite SBI, go to 'Requests' > 'Cheque Book' > 'Stop/Revoke Cheque', choose 'Revoke Cheque', select your account, enter the cheque number range, select instrument type, accept the terms, submit, and confirm with OTP. The stop will be removed.
+        answer: Log in to YONO Lite SBI, go to Requests > Cheque Book > Stop/Revoke Cheque, choose Revoke Cheque, select your account, enter the cheque number range, select instrument type, accept the terms, submit, and confirm with OTP. The stop will be removed.
       - question: Can I view a list of all cheques I have stopped?
-        answer: Yes. Under 'Requests' > 'Cheque Book' > 'Stop/Revoke Cheque', select 'View Recent' and your account to view all stopped cheques and their details.
+        answer: Yes. Under Requests > Cheque Book > Stop/Revoke Cheque, select View Recent and your account to view all stopped cheques and their details.
       - question: How quickly does the cheque stop become effective?
         answer: The stop takes effect immediately after you receive the confirmation on the app.
       - question: The account from which I want to stop the cheque on is not visible in Mobile Banking. What should I do?
@@ -383,43 +335,41 @@ seed_examples:
   - context: |
      This section explains UPI (Unified Payments Interface) features available in YONO Lite SBI, including fund transfer channels, beneficiary requirements, transaction limits, dispute handling, control settings, and FAQ on usage and security.
     questions_and_answers:
-    - question: What are the different channels for transferring funds using Yono Lite SBI UPI mode of payment?
-      answer: The YONO Lite SBI UPI functionality allows you to transfer funds through Virtual Payment Address (VPA) and via Account Number + IFSC.
-    - question: How can I generate a Virtual Payment Address (VPA)?
-      answer: Generation of a VPA is currently not supported through the YONO Lite SBI App.
-    - question: Does the customer need to register a beneficiary before transferring funds through UPI in YONO Lite SBI?
-      answer: No, registering a beneficiary is not required for making UPI fund transfers in the app.
-    - question: Does the beneficiary also have to register for UPI to receive funds?
-      answer: If sending money using the beneficiarys Virtual ID (VPA), the beneficiary must be registered with UPI. If transferring through Account Number + IFSC, UPI registration is not required for the beneficiary.
-    - question: Is there a transaction limit for UPI payments in YONO Lite SBI?
-      answer: Yes, the current daily transaction limit is ₹1,00,000 through the YONO Lite SBI App.
-    - question: What should I do if my account is debited but the UPI transaction fails?
-      answer: UPI provides real-time reversals for technical declines; funds are usually credited back immediately. If not, a dispute can be raised in the YONO Lite SBI app.
-    - question: Can I stop a UPI payment after it is initiated in YONO Lite SBI?
-      answer: No. Once a UPI payment is initiated, it cannot be stopped or reversed by the sender.
-    - question: Where can I register a complaint for a YONO Lite SBI UPI transaction?
-      answer: You can raise a complaint by selecting the relevant transaction in Payment History and using the raise dispute option. You can also check the status in the “Dispute Status” module in the app.
-    - question: How can I track the status of my UPI transactions?
-      answer: Log in to YONO Lite SBI App, then go to UPI > UPI Payment History to view transaction status updates.
-    - question: Are there any charges for UPI transactions in YONO Lite SBI?
-      answer: Currently, there are no charges for UPI transactions; any changes will be notified separately.
-    - question: What is UPI Enable/Disable?
-      answer: The UPI Enable/Disable feature allows you to turn UPI transactions on or off for your selected account.
-    - question: Is the enable/disable setting applied across all digital payment channels?
-      answer: Yes, this setting is at the account level and will be effective across all digital channels.
-    - question: Do I need to visit a branch to enable or disable UPI?
-      answer: No, you can manage UPI settings directly through the digital channels without branch visits.
-    - question: Can I disable UPI in one channel (e.g., Internet Banking) and enable it from the YONO Lite app?
-      answer: Yes, UPI enable/disable supports cross-channel management—you can change this setting in any linked digital channel.
-      
-
+      - question: What are the different channels for transferring funds using Yono Lite SBI UPI mode of payment?
+        answer: The YONO Lite SBI UPI functionality allows you to transfer funds through Virtual Payment Address (VPA) and via Account Number + IFSC.
+      - question: How can I generate a Virtual Payment Address (VPA)?
+        answer: Generation of a VPA is currently not supported through the YONO Lite SBI App.
+      - question: Does the customer need to register a beneficiary before transferring funds through UPI in YONO Lite SBI?
+        answer: No, registering a beneficiary is not required for making UPI fund transfers in the app.
+      - question: Does the beneficiary also have to register for UPI to receive funds?
+        answer: If sending money using the beneficiarys Virtual ID (VPA), the beneficiary must be registered with UPI. If transferring through Account Number + IFSC, UPI registration is not required for the beneficiary.
+      - question: Is there a transaction limit for UPI payments in YONO Lite SBI?
+        answer: Yes, the current daily transaction limit is ₹1,00,000 through the YONO Lite SBI App.
+      - question: What should I do if my account is debited but the UPI transaction fails?
+        answer: UPI provides real-time reversals for technical declines; funds are usually credited back immediately. If not, a dispute can be raised in the YONO Lite SBI app.
+      - question: Can I stop a UPI payment after it is initiated in YONO Lite SBI?
+        answer: No. Once a UPI payment is initiated, it cannot be stopped or reversed by the sender.
+      - question: Where can I register a complaint for a YONO Lite SBI UPI transaction?
+        answer: You can raise a complaint by selecting the relevant transaction in Payment History and using the raise dispute option. You can also check the status in the “Dispute Status” module in the app.
+      - question: How can I track the status of my UPI transactions?
+        answer: Log in to YONO Lite SBI App, then go to UPI > UPI Payment History to view transaction status updates.
+      - question: Are there any charges for UPI transactions in YONO Lite SBI?
+        answer: Currently, there are no charges for UPI transactions; any changes will be notified separately.
+      - question: What is UPI Enable/Disable?
+        answer: The UPI Enable/Disable feature allows you to turn UPI transactions on or off for your selected account.
+      - question: Is the enable/disable setting applied across all digital payment channels?
+        answer: Yes, this setting is at the account level and will be effective across all digital channels.
+      - question: Do I need to visit a branch to enable or disable UPI?
+        answer: No, you can manage UPI settings directly through the digital channels without branch visits.
+      - question: Can I disable UPI in one channel (e.g., Internet Banking) and enable it from the YONO Lite app?
+        answer: Yes, UPI enable/disable supports cross-channel management—you can change this setting in any linked digital channel.
 
 document_outline: |
-  This document outlines the features, access channels, target users, and onboarding procedures for SBI's YONO Business platform.
+  This document outlines the features, access channels, target users, and onboarding procedures for SBIs YONO Business platform.
 
 document:
   repo: https://github.com/varunchach/Bank_qna.git
   commit: 69ed10c28e06b7b5a0b2f293de2aed2db1651963
   patterns:
     - bank_qa.md
-    - "miscellaneous_unknown/bank_qa.md"
+    - miscellaneous_unknown/bank_qa.md
