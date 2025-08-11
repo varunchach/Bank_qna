@@ -216,14 +216,14 @@ seed_examples:
       - question: Are there any charges for UPI transactions in YONO Lite SBI?
         answer: Currently, there are no charges for UPI transactions; any changes will be notified separately.
       - question: Can I disable UPI in one channel (e.g., Internet Banking) and enable it from the YONO Lite app?
-        answer: Yes, UPI enable/disable supports cross-channel management—you can change this setting in any linked digital channel.
+        answer: Yes, UPI enable/disable supports cross-channel management—you can change this setting in any linked digital channel....      
 
 document_outline: |
   This document outlines the features, access channels, target users, and onboarding procedures for SBIs YONO Business platform.
 
 document:
   repo: https://github.com/varunchach/Bank_qna.git
-  commit: 798f74fed81a8172bb4c5eb5a24266e66740f2ed
+  commit: 3ab8a509f533b756682609059fcbaf4aa58e4250
   patterns:
     - bank_qa.md
     - miscellaneous_unknown/bank_qa.md

@@ -1,102 +1,25 @@
-# YONO Business - SBI's Unified Digital Platform
+State Bank of India (SBI) has built one of the most extensive and innovative digital ecosystems for banking in India, designed to empower both individuals and businesses with secure, intuitive, and flexible financial solutions. SBI’s digital transformation marries user convenience with enterprise-grade security, providing a seamless bridge across various customer segments, ranging from everyday account holders to the largest institutional clients.
 
-## What is YONO Business?
+At the business and corporate level, **YONO Business** stands out as the centerpiece of SBI’s digital offering. It brings together a host of critical banking services—including Corporate Internet Banking (CINB), eTrade, eForex, Supply Chain Finance (SCF), and Cash Management Product (CMP)—under a single, unified digital platform. By offering streamlined onboarding for new-to-bank and existing customers, and by supporting entities such as sole proprietors, partnerships, MSMEs, corporates, and government institutions, YONO Business makes managing corporate finances more streamlined than ever before. The platform’s robust security mechanisms ensure safe transactions, while its intuitive interface and consolidated dashboards grant users easy control over domestic payments, liquidity, and specialized business services.
 
-YONO Business is SBI's unified digital banking platform for business and corporate customers. It integrates:
+YONO Business is accessible via both web browsers and dedicated mobile apps (available on Google Play and the iOS App Store). The application is designed to accommodate the requirements of all user profiles, with mobile-specific features such as UPI Scan and Pay, biometric and MPIN login, Hindi language support, and advanced services like Import LC Authorization and real-time forex booking. MSMEs benefit from dedicated lending solutions, such as pre-approved business loans and GST invoice financing, directly within the application.
 
-- Corporate Internet Banking (CINB)
-- eTrade
-- eForex
-- Supply Chain Finance (SCF)
-- Cash Management Product (CMP)
+For retail customers and smaller businesses, **YONO Lite SBI** is the bank’s flagship digital banking solution. The app delivers a full spectrum of everyday banking services: users can perform quick fund transfers (via NEFT, RTGS, IMPS, and UPI), manage multiple accounts, pay bills, request or stop cheque books, retrieve e-statements, and access m-Passbook features for real-time transaction records. The platform emphasizes both user convenience—offering functionality like offline passbook access and multi-language support—and security, with features like SIM Binding and strict device registration controls. Customers are also empowered to manage their digital banking profile: updating contact details, changing passwords, and adjusting security settings as needed.
 
-The platform offers enhanced security, ease of navigation, intuitive UI/UX, and a reimagined domestic payment module with a consolidated dashboard.
+The **BHIM SBI Pay** and integrated UPI services make instant mobile payments and collections a breeze. Users can transfer funds using Virtual Payment Addresses (VPA) or simply by inputting account details and IFSC, without any need for beneficiary registration. UPI transactions on SBI’s platforms are highly secure and offer real-time reversals for failed payments. The application also empowers users to control their UPI access across all digital channels, enabling or disabling the service as needed.
 
----
+To address varied financial needs, SBI enables advanced services within its app ecosystem. Submitting tax exemption forms (15G/15H), opening Multi Option Deposits (MOD), generating or updating e-statements, and opening Public Provident Fund (PPF) accounts are all doable from a customer’s mobile phone. For customers who value simplicity, SBI Quick allows access to non-transactional services (like mini statements and account enquiry) through missed calls or SMS, with no need to log in or use internet data.
 
-## Where Can I Access YONO Business?
+Security is a central pillar of the SBI digital experience. SBI’s commitment to safety is evident in features like robust user authentication, encryption throughout its apps, regular forced password changes, and device-level restrictions. Passwords must meet stringent complexity requirements, and both registration and transactions are protected by One Time Passwords (OTPs) and two-factor authentication.
 
-- **Web**: [https://yonobusiness.sbi](https://yonobusiness.sbi)  
-- **Mobile App**: Available on Google Play Store and iOS App Store under "YONO Business"
+Special conveniences make SBI’s digital offerings stand out. Customers can instantly generate and manage virtual passbooks (m-Passbook), enjoy free e-statement services, print and save digital statements, and even stop or revoke cheque payments via mobile. Innovative payment tools, such as mCash, enable sending money to anyone using just their mobile number or email, with no need for account registration by the recipient—who can claim funds simply by entering a secure passcode.
 
----
+For users needing rapid, one-time payments, SBI’s Quick Transfer facility allows money to be sent instantly—either through QR code scanning (on Android devices) or manual entry of details—without beneficiary registration. SBI’s implementation of UPI further enhances payment flexibility; users can send up to ₹1 lakh per day, with real-time status tracking and dispute resolution baked into the app.
 
-## Who Can Use YONO Business?
+Beyond banking, SBI has extended its digital channels to WhatsApp Banking, allowing customers to access essential account information and support through end-to-end encrypted messaging. Account holders can manage subscriptions, block the service if needed, and rest assured that sensitive information is never requested by the bank on chat.
 
-YONO Business is designed for a variety of business customers including:
+All of these features are underpinned by SBI’s careful attention to inclusion. The range of supported account types—Savings, Current, OD, CC, NRI—and unlimited access to enquiry services mean that nearly every customer segment can benefit. The registration process is straightforward and differentiated for new and existing customers, whether for mobile banking, UPI, or business banking—the user-friendly onboarding workflows ensure easy, secure access for all.
 
-- Sole Proprietors  
-- Partnerships  
-- Private / Public Limited Companies  
-- MSMEs and Corporates  
-- Government institutions and large enterprises  
+SBI’s platforms are continually updated to support new features, maintain compliance, and address common issues, with a support system that can address registration problems, security concerns, and basic troubleshooting. Frequent updates, rigorous security, and a wide-reaching service portfolio position SBI as a leader in India’s digital banking landscape.
 
-Customers can be:
-
-- **NTB**: New to SBI  
-- **ETB**: Existing SBI customers (including those new to digital banking)
-
----
-
-## What Digital Services Are Available on YONO Business?
-
-YONO Business provides the following digital services:
-
-- **Current Account**:  
-  - Fully digital onboarding for Sole Proprietors  
-  - One-time branch visit for other entities
-
-- **Onboarding Journeys**:  
-  - Branch-assisted and customer-initiated onboarding for CINB, Trade, and Forex
-
-- **CINB Functionalities**:  
-  - Payments, account management, document uploads, reports, and collections
-
-- **Trade Finance**:  
-  - Digital applications for LCs, BGs, exports/imports, advance payments
-
-- **Forex Services**:  
-  - Real-time forex booking with document upload and no minimum threshold
-
-- **Supply Chain Finance**:  
-  - eDFS and eVFS offerings
-
-- **API Banking**:  
-  - ERP integration for payments, balances, and trade services
-
-- **MSME Lending**:  
-  - Pre-approved loans and GST invoice financing via MSME Sahaj
-
-- **Liquidity Management**:  
-  - Consolidated accounts, collections, and supplier payments
-
-- **Mobile App Services**:  
-  - UPI, Hindi support, biometric login, MPIN, import LC authorization, forex booking  
-  - For both single-user (Saral / Khata) and multi-user (Vyapaar / Vistaar) access
-
-- **Add-on Services**:  
-  - yono Cash, profile management, e-TDR/e-STDR, IPO applications
-
----
-
-## How Can NTB (New-to-Bank) Customers Onboard?
-
-### Sole Proprietors:
-- Fully digital current account onboarding via [yonobusiness.sbi](https://yonobusiness.sbi)
-
-### Other Entities (Partnerships, Companies, etc.):
-- Apply online
-- Complete verification with a one-time branch visit
-
----
-
-## How Can ETB (Existing SBI Customers) Onboard?
-
-### If Not Registered for Digital Banking:
-- **Sole Proprietors with a debit card**: Can register entirely online
-- **Other Business Entities**:  
-  - Initiate onboarding for YB/CINB, Trade, or Forex  
-  - Complete via one-time branch visit
-
-### Branch-Assisted Onboarding:
-- Visit any SBI branch to onboard for YB/CINB, eTrade, and eForex in a single visit
+In summary, SBI’s digital ecosystem—comprising YONO Business, YONO Lite SBI, BHIM SBI Pay, additional mobile services, and innovative banking tools—offers a comprehensive, reliable reference point for all frequently asked questions across retail, SME/MSME, and corporate banking. Whether a customer is seeking information about UPI transactions, mobile app onboarding, cheque management, e-statements, loan services, or everyday inquiries, SBI’s digital platforms make information and services accessible, secure, and user-centric, elevating the banking experience for millions.
